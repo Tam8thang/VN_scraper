@@ -13,10 +13,10 @@ Simply save and close the file after that.
 
 # How to use this program
 Execute it from command-line by typing as below and hit enter:   
-python bs.py "an URL of VNExpress article"   
+python vs.py "an URL of VNExpress article"   
   
 For Example:   
-python bs.py "https://vnexpress.net/pho-thu-tuong-goi-phuc-hoi-kinh-te-lam-than-trong-de-tranh-so-suat-4471202.html"   
+python vs.py "https://vnexpress.net/pho-thu-tuong-goi-phuc-hoi-kinh-te-lam-than-trong-de-tranh-so-suat-4471202.html"   
   
 Notice that 1 VNExpress URL is required as a command-line argument.  
 The contents will be scraped and immediately opened as a txt file.   
