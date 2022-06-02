@@ -33,7 +33,7 @@ try:
     file.write(desc + "\n\n\n\n")
     for i in range(len(parag)):
         file.write(parag[i].text + "\n\n")
-    file.write(sys.argv[1])
+    file.write(URL)
 
     file.close()
     os.startfile(file_path)
