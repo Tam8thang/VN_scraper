@@ -24,4 +24,5 @@ The contents will be scraped and immediately opened as a txt file.
 
 # Important Notice
 
-This program has been made 6/1st/2022, so if the specification of VNExpress is editted or changed, this program might get out of order. Please keep it in your mind.
+This program has been made 6/1st/2022, so if the specification of VNExpress is editted or changed, this program might get out of order. Please keep it in your mind.  
+You need to have "bs4" and "requests" libraries.
