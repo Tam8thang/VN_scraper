@@ -1,0 +1,1 @@
+Delete this and enter a Location in which you want to save the scraped files.
